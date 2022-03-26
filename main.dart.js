@@ -58915,7 +58915,7 @@ o=A.bi(l,s,s,s,A.b9(s,s,A.at(q,p).a?B.h:B.y,s,s,s,s,s,s,s,s,s,s,B.ag,s,s,!0,s,s,
 return A.abG(B.X,s,!0,n,10,20,s,A.bi(r.h(0,"date"),s,s,s,A.b9(s,s,A.pl(q),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),o,A.bi(r.h(0,"amount"),s,s,s,B.uc,s,s))},
 $S:138}
 A.FR.prototype={
-H(a,b){var s=null,r=t.F,q=A.at(b,r).a?B.y:B.h,p=A.PO(b,s,!1,"Profile"),o=A.dA(20),n=A.at(b,r).a?B.W:B.a1,m=A.lB(A.bi("MUHAEMIN ISKANDAR",s,s,s,A.b9(s,s,A.at(b,r).a?B.h:B.y,s,s,s,s,s,s,s,s,20,s,B.Y,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),l=A.bi("younes@gmail.com",s,s,s,A.b9(s,s,A.pl(b),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),k=$.awZ,j=A.V(k).i("ax<1,h>"),i=t.p
+H(a,b){var s=null,r=t.F,q=A.at(b,r).a?B.y:B.h,p=A.PO(b,s,!1,"Profile"),o=A.dA(20),n=A.at(b,r).a?B.W:B.a1,m=A.lB(A.bi("MUHAEMIN ISKANDAR",s,s,s,A.b9(s,s,A.at(b,r).a?B.h:B.y,s,s,s,s,s,s,s,s,20,s,B.Y,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),l=A.bi("iskandarm20d@student.unhas.ac.id",s,s,s,A.b9(s,s,A.pl(b),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),k=$.awZ,j=A.V(k).i("ax<1,h>"),i=t.p
 return A.wz(p,q,A.vg(A.b([B.f6,A.jm(B.b5,A.b([A.aN(B.c3,A.aN(s,A.cE(A.b([B.AI,m,B.cb,l,B.f4,A.c2(A.ac(new A.ax(k,new A.Yj(),j),!0,j.i("aJ.E")),B.v,B.aG,B.q),B.f4],i),B.v,B.aG,B.q),B.j,s,s,new A.aS(n,s,s,o,s,s,B.C),s,230,s,s,s,s,s),B.j,s,s,s,s,280,s,s,s,s,s),A.w2(s,A.aN(s,A.a2B(B.G,A.m3("assets/memoji/dash.png",s,s,s),s,0.55),B.j,s,s,B.vh,s,100,s,s,s,s,100),s,s,30,30,s,s)],i),B.bf),B.AG,A.CP(B.yS,b,B.lF,s,"Information"),A.CP(B.yi,b,B.B_,s,"Security"),A.CP(B.z_,b,B.AW,s,"Contact us"),A.CP(B.y8,b,B.AT,s,"Support"),A.CP(B.y7,b,B.AO,!0,"Dark Mode")],i),B.cK,s),s,s)}}
 A.Yj.prototype={
 $1(a){var s=null,r=J.aa(a)
