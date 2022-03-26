@@ -58883,7 +58883,7 @@ n=$.a0e
 n.toString
 m=A.abr(0.06157635467980296*n)
 l=t.p
-k=A.c2(A.b([A.cE(A.b([A.bi("Hi YOUNESS",f,f,f,A.b9(f,f,A.W(B.c.an(178.5),255,255,255),f,f,f,f,f,f,f,f,16,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),B.f5,B.MG],l),B.a2,B.K,B.q),A.oD(!1,!0,A.aN(f,A.dp(B.lE,B.eQ,f),B.j,f,f,B.eE,f,f,f,B.cJ,f,f,f),f,!0,f,f,f,f,f,f,f,f,f,f,f,f,f)],l),B.v,B.ax,B.q)
+k=A.c2(A.b([A.cE(A.b([A.bi("Hi, welcome",f,f,f,A.b9(f,f,A.W(B.c.an(178.5),255,255,255),f,f,f,f,f,f,f,f,16,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),B.f5,B.MG],l),B.a2,B.K,B.q),A.oD(!1,!0,A.aN(f,A.dp(B.lE,B.eQ,f),B.j,f,f,B.eE,f,f,f,B.cJ,f,f,f),f,!0,f,f,f,f,f,f,f,f,f,f,f,f,f)],l),B.v,B.ax,B.q)
 j=s.a
 i=A.at(b,r).a?B.E:B.eQ
 p=A.Ty(A.ex(A.c2(A.b([A.aN(f,A.cE(A.b([A.m3("assets/cards/visa_yellow.png",B.bm,50,60),B.MH,B.aF,A.bi("CARD NUMBER",f,f,f,A.b9(f,f,A.W(B.c.an(127.5),255,255,255),f,f,f,f,f,f,f,f,12,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),B.bs,B.kc],l),B.a2,B.K,B.q),B.j,f,f,new A.aS(i,f,f,B.de,f,f,B.C),f,f,f,B.dy,f,f,j*0.67),A.aN(f,A.cE(A.b([A.aN(f,B.fa,B.j,f,f,new A.aS(B.E,f,f,f,f,f,B.ae),f,f,B.dw,B.cJ,f,f,f),B.d8,B.ka,B.bs,B.kb],l),B.a2,B.K,B.q),B.j,f,f,new A.aS(B.dt,f,f,B.df,f,f,B.C),f,f,f,B.dz,f,f,j*0.27)],l),B.v,B.aG,B.q),p*0.23,f))
@@ -58915,7 +58915,7 @@ o=A.bi(l,s,s,s,A.b9(s,s,A.at(q,p).a?B.h:B.y,s,s,s,s,s,s,s,s,s,s,B.ag,s,s,!0,s,s,
 return A.abG(B.X,s,!0,n,10,20,s,A.bi(r.h(0,"date"),s,s,s,A.b9(s,s,A.pl(q),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),o,A.bi(r.h(0,"amount"),s,s,s,B.uc,s,s))},
 $S:138}
 A.FR.prototype={
-H(a,b){var s=null,r=t.F,q=A.at(b,r).a?B.y:B.h,p=A.PO(b,s,!1,"Profile"),o=A.dA(20),n=A.at(b,r).a?B.W:B.a1,m=A.lB(A.bi("YOUNESS MOUATASSIM",s,s,s,A.b9(s,s,A.at(b,r).a?B.h:B.y,s,s,s,s,s,s,s,s,20,s,B.Y,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),l=A.bi("younes@gmail.com",s,s,s,A.b9(s,s,A.pl(b),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),k=$.awZ,j=A.V(k).i("ax<1,h>"),i=t.p
+H(a,b){var s=null,r=t.F,q=A.at(b,r).a?B.y:B.h,p=A.PO(b,s,!1,"Profile"),o=A.dA(20),n=A.at(b,r).a?B.W:B.a1,m=A.lB(A.bi("MUHAEMIN ISKANDAR",s,s,s,A.b9(s,s,A.at(b,r).a?B.h:B.y,s,s,s,s,s,s,s,s,20,s,B.Y,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),l=A.bi("younes@gmail.com",s,s,s,A.b9(s,s,A.pl(b),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),k=$.awZ,j=A.V(k).i("ax<1,h>"),i=t.p
 return A.wz(p,q,A.vg(A.b([B.f6,A.jm(B.b5,A.b([A.aN(B.c3,A.aN(s,A.cE(A.b([B.AI,m,B.cb,l,B.f4,A.c2(A.ac(new A.ax(k,new A.Yj(),j),!0,j.i("aJ.E")),B.v,B.aG,B.q),B.f4],i),B.v,B.aG,B.q),B.j,s,s,new A.aS(n,s,s,o,s,s,B.C),s,230,s,s,s,s,s),B.j,s,s,s,s,280,s,s,s,s,s),A.w2(s,A.aN(s,A.a2B(B.G,A.m3("assets/memoji/dash.png",s,s,s),s,0.55),B.j,s,s,B.vh,s,100,s,s,s,s,100),s,s,30,30,s,s)],i),B.bf),B.AG,A.CP(B.yS,b,B.lF,s,"Information"),A.CP(B.yi,b,B.B_,s,"Security"),A.CP(B.z_,b,B.AW,s,"Contact us"),A.CP(B.y8,b,B.AT,s,"Support"),A.CP(B.y7,b,B.AO,!0,"Dark Mode")],i),B.cK,s),s,s)}}
 A.Yj.prototype={
 $1(a){var s=null,r=J.aa(a)
@@ -64672,7 +64672,7 @@ return[A.av(["color",B.y6,"icon",B.AU],s,r),A.av(["color",B.zh,"icon",B.B0,"rout
 $.awZ=function(){var s=t.N,r=t.K
 return[A.av(["color",B.z0,"icon",B.lD],s,r),A.av(["color",B.yh,"icon",B.lE],s,r),A.av(["color",B.yB,"icon",B.AZ],s,r),A.av(["color",B.yA,"icon",B.AP],s,r)]}()
 $.ajJ=function(){var s=t.N,r=t.z
-return A.b([A.av(["icon",B.B4,"name","SALAHDINE BOUKADI","date","4:56 PM","amount","-140"],s,r),A.av(["avatar","assets/memoji/dash.png","name","BOUTAINA REMAH","date","5:20 PM","amount","+100"],s,r),A.av(["avatar","assets/memoji/1.png","name","MOHAMMED YOUSSFI","date","7:21 PM","amount","+110"],s,r)],A.Q("r<as<p,@>>"))}()
+return A.b([A.av(["icon",B.B4,"name","EMI","date","4:56 PM","amount","-140"],s,r),A.av(["avatar","assets/memoji/dash.png","name","MIN","date","5:20 PM","amount","+100"],s,r),A.av(["avatar","assets/memoji/1.png","name","MUHIS","date","7:21 PM","amount","+110"],s,r)],A.Q("r<as<p,@>>"))}()
 $.a0e=null
 $.asD=A.b([B.AL,B.NP,B.Iz,B.GE],t.p)
 $.ac3=null
